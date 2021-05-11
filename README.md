@@ -4,7 +4,7 @@
 </head>
 <body>
 <link rel="stylesheet" href="style.css">
-<h1>What is Mesh Wifi</h1>
+<h1>What is Mesh Wifi?</h1>
 <p>
 
 Mesh WiFi is a whole home WiFi system built to eliminate dead zones and to provide uninterrupted WiFi throughout your home.<br>
