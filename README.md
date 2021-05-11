@@ -26,7 +26,7 @@ Features of a Whole Home WiFi System <br>
 
 Mesh technology is smart and intuitive, letting you stay online even if one of your mesh nodes fails. You can skip signing into a new network every time you go upstairs and stay connected to a single sturdy network no matter where you are.
 
-<img src="SAVE_20210511_125242.jpg " alt="mesh5 wifi">
+<img src="SAVE_20210511_125034.jpg " alt="mesh5 wifi">
 <img src="SAVE_20210511_125159.jpg"   alt="mesh3 wifi">
 
 
