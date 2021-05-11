@@ -20,7 +20,11 @@ They also represent a great option for people who are interested in a powerful W
 <hr>
 Features of a Whole Home WiFi System <br>
 
-<img src="SAVE_20210511_122853.jpg " alt="mesh2 wifi">
+<img src="SAVE_20210511_122853.jpg " alt="mesh2 wifi"><br>
+
+<b>One Network for Your Entire Home</b>
+
+Mesh technology is smart and intuitive, letting you stay online even if one of your mesh nodes fails. You can skip signing into a new network every time you go upstairs and stay connected to a single sturdy network no matter where you are.
 
 
 </p>
