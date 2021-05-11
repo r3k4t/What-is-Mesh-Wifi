@@ -18,6 +18,9 @@ Mesh WiFi is built for all types of homes specifically mid size and large homes 
 They also represent a great option for people who are interested in a powerful WiFi system but don’t want to deal with the complicated setup and configuration that most regular routers come with.
 
 <hr>
+Features of a Whole Home WiFi System <br>
+
+<img src="     " alt="mesh2 wifi">
 
 
 </p>
