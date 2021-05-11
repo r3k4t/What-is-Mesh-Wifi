@@ -36,13 +36,13 @@ With a mesh router, you can get a powerful and stable connection no matter where
 
 <img src="SAVE_20210511_125159.jpg"   alt="mesh3 wifi">
 
-<b>Easy Setup and Management<b>
+<b>Easy Setup and Management</b>
 
 Most mesh routers on the market today come with easy network setup and management controls allowing you to toggle network settings, check speeds, and enact parental controls.
 
 <img src="SAVE_20210511_125242.jpg "   alt="mesh4 wifi">
 
-<b>Control Your Smart Home<b>
+<b>Control Your Smart Home</b>
 
 Mesh systems like our Deco M5 (3-Pack) or Deco X60 WiFi 6 are so advanced that they function as a WiFi router and a smart hub, connecting your Zigbee and WiFi devices and enabling you to manage all your connected smart devices through the Deco app.
 </p>
