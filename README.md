@@ -20,7 +20,7 @@ They also represent a great option for people who are interested in a powerful W
 <hr>
 Features of a Whole Home WiFi System <br>
 
-<img src="     " alt="mesh2 wifi">
+<img src="SAVE_20210511_122853.jpg " alt="mesh2 wifi">
 
 
 </p>
