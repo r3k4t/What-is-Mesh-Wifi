@@ -46,6 +46,5 @@ Most mesh routers on the market today come with easy network setup and managemen
 
 Mesh systems like our Deco M5 (3-Pack) or Deco X60 WiFi 6 are so advanced that they function as a WiFi router and a smart hub, connecting your Zigbee and WiFi devices and enabling you to manage all your connected smart devices through the Deco app.
 </p>
-  <button type="submit">submit</button>
 </body>
 </html>
